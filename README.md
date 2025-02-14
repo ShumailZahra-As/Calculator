@@ -1,7 +1,7 @@
-**Simple Calculator** 🧮
+**Simple Calculator** 🧮<br>
 This is a basic calculator built using HTML, CSS, and JavaScript. It allows users to perform simple mathematical operations such as addition, subtraction, multiplication, division, and percentage calculations. The calculator has a modern dark-themed UI with a responsive design that works on different screen sizes.
 
-**Features**
+**Features**<br>
 This calculator includes the following features:
 
 Users can perform basic arithmetic operations (+, -, ×, ÷, %).
@@ -16,14 +16,14 @@ HTML → To structure the calculator interface.
 CSS → To style the calculator and create an attractive layout.
 JavaScript → To handle user interactions and perform calculations.
 
-**How to Use**
+**How to Use**<br>
 Click on the number buttons to enter a calculation.
 Use the operator buttons (+, -, *, /, %) to apply mathematical operations.
 Press the equals (=) button to get the result.
 If you want to clear everything, press the AC (All Clear) button.
 To remove the last digit, press the DEL (Delete) button.
 
-**Project Files & Structure**
+**Project Files & Structure**<br>
 This project consists of the following files:
 
 index.html → The main HTML file that structures the calculator.
@@ -33,10 +33,10 @@ README.md → This file contains project details.
 How to Run the Project
 To use this calculator on your computer:
 
-## **How to Run the Project**  
+## **How to Run the Project**  <br>
 To use this calculator on your computer:  
 1. Download the project as a **ZIP file** or clone the repository using the following command:  
    ```bash
    git clone https://github.com/ShumailZahra-As/Calculator.git
-Navigate to the project folder.
-Open the index.html file in any web browser.
+2.Navigate to the project folder.<br>
+3.Open the index.html file in any web browser.
